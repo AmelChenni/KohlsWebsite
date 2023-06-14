@@ -7,7 +7,7 @@ export default function Navbar({user,logOut}) {
     <>
      <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top bg-white ">
   <div className="container-fluid">
-    <Link className="navbar-brand" to="login"><img src='https://castle.thespecialistworks.com/coverscans/20200305142506kohlslogoblack.png'className={style.logo} alt=''/></Link>
+    <Link className="navbar-brand" to=""><img src='https://castle.thespecialistworks.com/coverscans/20200305142506kohlslogoblack.png'className={style.logo} alt=''/></Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon" />
     </button>

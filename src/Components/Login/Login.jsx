@@ -89,22 +89,22 @@ export default function Login({saveCurentYser}) {
       <p>With a Kohls.com account, enjoy exclusive, benefits that make shopping faster and easier!</p>
       <div className='items'>
         <div className='mb-4'>
-          <img src='./assets/img/checkOut.png' alt='Enjoy Express Checkout'/>
+          <img src='https://cdn1.iconfinder.com/data/icons/lined-shopping-cart/48/a-10-512.png' alt='Enjoy Express Checkout'/>
           <span>Enjoy Express Checkout</span>
         </div>
         
         <div className='mb-4'>
-          <img src='./assets/img/kohlsrewards-flag.webp' alt='See your Kohls Rewards'/>
+          <img src='https://media.kohlsimg.com/is/image/kohls/111223-20220501-tbd-flag?fmt=png-alpha' alt='See your Kohls Rewards'/>
           <span>See your Kohl's Rewards</span>
         </div>
 
         <div className='mb-4'>
-          <img src='./assets/img/kohls-cash.png' alt='Print Kohls Cash'/>
+          <img src='https://frequentmiler.com/wp-content/uploads/2013/09/kohls-cash.png' alt='Print Kohls Cash'/>
           <span>Print Kohl's Cash</span>
         </div>
 
         <div className='mb-4'>
-          <img src='./assets/img/trackorder.png' alt='Track orders easily'/>
+          <img src='https://static.thenounproject.com/png/3154344-200.png' alt='Track orders easily'/>
           <span>Track orders easily</span>
         </div>
       </div>
