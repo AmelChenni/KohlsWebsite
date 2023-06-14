@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KohlsWebsite/static/css/main.a490149a.css",
+    "main.js": "/KohlsWebsite/static/js/main.f9aff053.js",
+    "static/js/787.2cd31d2c.chunk.js": "/KohlsWebsite/static/js/787.2cd31d2c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/KohlsWebsite/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/KohlsWebsite/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/KohlsWebsite/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/KohlsWebsite/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/KohlsWebsite/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/GothamLight.ttf": "/KohlsWebsite/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamMedium.ttf": "/KohlsWebsite/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
+    "static/media/GothamBold.ttf": "/KohlsWebsite/static/media/GothamBold.108854bb27dee2dce854.ttf",
+    "static/media/fa-regular-400.woff2": "/KohlsWebsite/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/KohlsWebsite/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/KohlsWebsite/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/KohlsWebsite/index.html",
+    "main.a490149a.css.map": "/KohlsWebsite/static/css/main.a490149a.css.map",
+    "main.f9aff053.js.map": "/KohlsWebsite/static/js/main.f9aff053.js.map",
+    "787.2cd31d2c.chunk.js.map": "/KohlsWebsite/static/js/787.2cd31d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a490149a.css",
+    "static/js/main.f9aff053.js"
+  ]
+}
